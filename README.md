@@ -17,7 +17,7 @@ Neste livro, aprenderemos a programar os procedimentos de análise e exploraçã
 
 **Capítulo 2**, *Ferramentas e métodos disponíveis*, apresentamos alguns dos programas mais utilizados em pesquisas na área e elencamos as suas principais funcionalidades.
 
-**Capítulo 3**, *Linguagem Python***, fornecemos uma breve retomada da Linguagem Python, seus principais aspectos e funcionalidades para o entendimento e a escrita dos códigos apresentados no guia.
+**Capítulo 3**, *Linguagem Python*, fornecemos uma breve retomada da Linguagem Python, seus principais aspectos e funcionalidades para o entendimento e a escrita dos códigos apresentados no guia.
 
 **Capítulo 4**, *Coleta, organização e etiquetagem*, abordamos algumas das principais formas de coleta, organização, etiquetagem e compilação de corpora para o processamento computacional a partir de exemplos práticos.
 
