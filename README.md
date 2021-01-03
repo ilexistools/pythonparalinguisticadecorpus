@@ -1,1 +1,2 @@
-# pythonparalinguisticadecorpus
+# Python para Linguística de Corpus
+
